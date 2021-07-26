@@ -1,0 +1,2 @@
+../../tid2013/distorted_images/I01_01_1.bmp,../../tid2013/reference_images/I01.BMP
+../../tid2013/distorted_images/i01_01_2.bmp,../../tid2013/reference_images/I01.BMP
